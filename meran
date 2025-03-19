@@ -1,0 +1,11 @@
+[Interface]
+PrivateKey = yCLJJe/dM5Nzwtma5/jC4wMokPuMbFlZBLGetdlWlHo=
+Address = 10.0.0.2/32
+DNS = 1.1.1.1, 1.0.0.1
+MTU = 1420
+
+# -1
+[Peer]
+PublicKey = 6KnfaFsYMjxpCHj1y3fc9vEGtrvpZfmPl0PfHz0BZRg=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = mahan.bujik.ir:40662
