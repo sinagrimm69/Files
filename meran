@@ -1,11 +1,10 @@
 [Interface]
-PrivateKey = yCLJJe/dM5Nzwtma5/jC4wMokPuMbFlZBLGetdlWlHo=
+PrivateKey = ACj6G3uc0reJl+8l5/WgZlFB2TQZrIQPPAvOzOZk+10=
 Address = 10.0.0.2/32
-DNS = 1.1.1.1, 1.0.0.1
+DNS = 178.22.122.100, 185.51.200.2
 MTU = 1420
 
-# -1
 [Peer]
-PublicKey = 6KnfaFsYMjxpCHj1y3fc9vEGtrvpZfmPl0PfHz0BZRg=
+PublicKey = 41bi5m8rEIZzwBgkTqp0wOT6nX+Qp7Rad8nPRbilRW8=
 AllowedIPs = 0.0.0.0/0, ::/0
-Endpoint = mahan.bujik.ir:40662
+Endpoint = mahan.bujik.ir:45748
