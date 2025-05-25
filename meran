@@ -1,10 +1,1 @@
-[Interface]
-PrivateKey = ACj6G3uc0reJl+8l5/WgZlFB2TQZrIQPPAvOzOZk+10=
-Address = 10.0.0.2/32
-DNS = 78.157.42.101, 78.157.42.100
-MTU = 1420
-
-[Peer]
-PublicKey = 41bi5m8rEIZzwBgkTqp0wOT6nX+Qp7Rad8nPRbilRW8=
-AllowedIPs = 0.0.0.0/0, ::/0
-Endpoint = mahan.bujik.ir:45748
+https://shomaran.com/articles/%D8%B5%D9%88%D8%B1%D8%AA%D9%87%D8%A7%DB%8C-%D9%85%D8%A7%D9%84%DB%8C-%D9%86%D9%85%D9%88%D9%86%D9%87/
